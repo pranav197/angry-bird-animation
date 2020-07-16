@@ -1,2 +1,2 @@
-# angry-bird-animation
-added all the animation for the object.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
